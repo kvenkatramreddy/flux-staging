@@ -18,6 +18,6 @@ spec:
     image:
       tag: 0.0.5
       pullPolicy: Always
-    replicaCount: 2
+    replicaCount: 1
   
 
